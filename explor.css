@@ -1,0 +1,112 @@
+#img {
+    margin-top: 20px;
+    height: 369px;
+    background:url("./Images/bg.jpg") no-repeat ;
+    background-size: cover;
+    border-style: inset;
+}
+
+nav {
+    border-style: inset;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: rgb(216, 192, 192);
+}
+
+#side {
+
+    background-color: beige;
+    border-style: outset;
+}
+
+#rside {
+    background-color: rgb(226, 216, 226);
+    border-bottom-style: outset;
+}
+
+h1,
+h4 {
+    background-color: rgba(148, 116, 97, .3);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-style: outset;
+
+
+}
+
+#logo {
+    height: 70px;
+    border-radius:60%;
+}
+
+li {
+    text-decoration: underline;
+}
+
+li:hover {
+    color: brown;
+}
+
+h2 {
+    background-color: rgb(224, 210, 210);
+    border-style: outset;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 30px;
+    text-align: justify;
+}
+
+p {
+    text-align: center;
+}
+
+
+#img1,
+#img2,
+#img4,
+#img5,
+#img7{
+    height: 70px;
+    border-radius: 50%;
+
+}
+
+h5 {
+    font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 2px 2px gray;
+
+
+}
+
+#up {
+    color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 17px;
+    margin-bottom: 289px;
+
+
+}
+
+.container {
+    margin-top: 20px;
+
+}
+
+#car {
+    margin-right: -30px;
+}
+
+section {
+    background-color: rgb(173, 97, 97);
+    height: 45px;
+    padding-top: 15px;
+    margin-left: -11px;
+    margin-right: -12px;
+}
